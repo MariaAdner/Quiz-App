@@ -27,3 +27,15 @@ h1 {
   border-radius: 10px;
   padding: 20px;
 }
+
+footer {
+  border: burlywood 5px solid;
+  margin: 50px;
+}
+
+.navbar {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
